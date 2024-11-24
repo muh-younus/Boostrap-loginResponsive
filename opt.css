@@ -1,0 +1,16 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+.inputfield input{
+
+    padding: 5px 5px;
+}
+
+.inputfield{
+
+    display: flex;
+    gap: 5px;
+}
